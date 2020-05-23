@@ -8,6 +8,7 @@ public class FunctionalInterface {
     public static void main(String[] args) {
         System.out.println(composeHashCode("Hello", "World"));
         System.out.println(composeHashCode("Hello", null));
+
     }
 
   /*  public static int composeHashCode(Object a, Object b)
